@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\models\\wslkdtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\models\\wslkdtcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\views\\home\\trangdangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\views\\home\\trangdangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\models\\lbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\models\\lbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\websitelkdt.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\websitelkdt.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|d:\\workspace\\gitcode_tvu\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\websitelkdt\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50EB2D0C-E548-4E42-9AA9-76CB4E438C35}|WebSiteLKDT\\WebSiteLKDT.csproj|solutionrelative:websitelkdt\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangDangKy.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Views\\Home\\TrangDangKy.cshtml",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Views\\Home\\TrangDangKy.cshtml",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Views\\Home\\TrangDangKy.cshtml",
+              "RelativeToolTip": "WebSiteLKDT\\Views\\Home\\TrangDangKy.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T15:27:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LbUser.cs",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Models\\LbUser.cs",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Models\\LbUser.cs",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Models\\LbUser.cs",
+              "RelativeToolTip": "WebSiteLKDT\\Models\\LbUser.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:27:09.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WslkdtContext.cs",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Models\\WslkdtContext.cs",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Models\\WslkdtContext.cs",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Models\\WslkdtContext.cs",
+              "RelativeToolTip": "WebSiteLKDT\\Models\\WslkdtContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAtwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:18:46.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Models\\CartItem.cs",
+              "RelativeToolTip": "WebSiteLKDT\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T15:18:42.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebSiteLKDT",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\WebSiteLKDT.csproj",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\WebSiteLKDT.csproj",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\WebSiteLKDT.csproj",
+              "RelativeToolTip": "WebSiteLKDT\\WebSiteLKDT.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-20T15:16:02.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebSiteLKDT\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T12:09:30.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebSiteLKDT\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T12:09:00.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Program.cs",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Program.cs",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Program.cs",
+              "RelativeToolTip": "WebSiteLKDT\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:05:22.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebSiteLKDT\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-19T12:04:03.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\appsettings.Development.json",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\appsettings.Development.json",
+              "RelativeToolTip": "WebSiteLKDT\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T12:02:01.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\appsettings.json",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\appsettings.json",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\appsettings.json",
+              "RelativeToolTip": "WebSiteLKDT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T12:01:56.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebSiteLKDT\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAADgv+MAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:01:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebSiteLKDT\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Workspace\\gitcode_TVU\\cn-da20tta-haminhchien-websitelinhkiendientu-asp.net-mvc\\src\\asp\\WebSiteLKDT\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebSiteLKDT\\Controllers\\CartController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:01:10.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
